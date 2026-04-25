@@ -10,7 +10,9 @@
 - В качестве решения приложите:
 
 - скриншот ЛК Yandex Cloud с созданной ВМ, где видно внешний ip-адрес;
-<img width="791" height="302" alt="image" src="https://github.com/user-attachments/assets/7cc89abf-7528-4c44-b5b4-9f16a88d7fe8" />
+<img width="804" height="435" alt="image" src="https://github.com/user-attachments/assets/e9bc7e15-abf1-4d46-bccd-17af2a7c5a56" />
 
 скриншот консоли, curl должен отобразить тот же внешний ip-адрес;
+<img width="495" height="57" alt="image" src="https://github.com/user-attachments/assets/d6eded9a-1ad9-48ae-9619-797be56c8d9f" />
+
 ответы на вопросы.
