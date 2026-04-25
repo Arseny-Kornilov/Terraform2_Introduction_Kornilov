@@ -16,3 +16,4 @@
 <img width="495" height="57" alt="image" src="https://github.com/user-attachments/assets/d6eded9a-1ad9-48ae-9619-797be56c8d9f" />
 
 ответы на вопросы.
+в ошибках было неправильно написано platform (standarT) и неправильные значения фракшена и коров для v3 платформы) 
