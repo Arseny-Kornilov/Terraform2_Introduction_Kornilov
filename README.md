@@ -19,5 +19,12 @@
  - скриншот консоли, curl должен отобразить тот же внешний ip-адрес;
 <img width="495" height="57" alt="image" src="https://github.com/user-attachments/assets/d6eded9a-1ad9-48ae-9619-797be56c8d9f" />
 
- - ответы на вопросы.
+
+## Задание 2
+- Замените все хардкод-значения для ресурсов yandex_compute_image и yandex_compute_instance на отдельные переменные. К названиям переменных ВМ добавьте в начало префикс vm_web_ . Пример: vm_web_name.
+- Объявите нужные переменные в файле variables.tf, обязательно указывайте тип переменной. Заполните их default прежними значениями из main.tf.
+- Проверьте terraform plan. Изменений быть не должно.
+  <img width="476" height="436" alt="image" src="https://github.com/user-attachments/assets/1a08ca3f-a573-40b9-b606-73f5cf170b62" />
+  <img width="385" height="136" alt="image" src="https://github.com/user-attachments/assets/b2b61e00-02c4-40cc-8c69-7625c3eb0f25" />
+
 
