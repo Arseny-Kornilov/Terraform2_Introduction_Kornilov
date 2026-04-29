@@ -29,3 +29,12 @@
   <img width="385" height="136" alt="image" src="https://github.com/user-attachments/assets/b2b61e00-02c4-40cc-8c69-7625c3eb0f25" />
 
 
+## Задание 3
+- Создайте в корне проекта файл 'vms_platform.tf' . Перенесите в него все переменные первой ВМ.
+- Скопируйте блок ресурса и создайте с его помощью вторую ВМ в файле main.tf: "netology-develop-platform-db" , cores  = 2, memory = 2, core_fraction = 20. Объявите её переменные с префиксом vm_db_ в том же файле ('vms_platform.tf'). ВМ должна работать в зоне "ru-central1-b"
+- Примените изменения.
+  <img width="799" height="461" alt="image" src="https://github.com/user-attachments/assets/6b19667b-f30e-42f8-8c82-9edd5055f9c8" />
+
+  <img width="321" height="134" alt="image" src="https://github.com/user-attachments/assets/b253910f-6739-4d7b-a062-6b17d83abb39" />
+
+
