@@ -25,6 +25,7 @@
 - Объявите нужные переменные в файле variables.tf, обязательно указывайте тип переменной. Заполните их default прежними значениями из main.tf.
 - Проверьте terraform plan. Изменений быть не должно.
   <img width="476" height="436" alt="image" src="https://github.com/user-attachments/assets/1a08ca3f-a573-40b9-b606-73f5cf170b62" />
+  
   <img width="385" height="136" alt="image" src="https://github.com/user-attachments/assets/b2b61e00-02c4-40cc-8c69-7625c3eb0f25" />
 
 
