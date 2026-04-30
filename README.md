@@ -44,3 +44,12 @@
 - В качестве решения приложите вывод значений ip-адресов команды terraform output.
   <img width="597" height="273" alt="image" src="https://github.com/user-attachments/assets/3ee8bad9-4cb5-411a-a0cc-fe541d414558" />
 
+
+## Задание 5
+- В файле locals.tf опишите в одном local-блоке имя каждой ВМ, используйте интерполяцию ${..} с НЕСКОЛЬКИМИ переменными по примеру из лекции.
+- Замените переменные внутри ресурса ВМ на созданные вами local-переменные.
+- Примените изменения.
+  <img width="510" height="49" alt="image" src="https://github.com/user-attachments/assets/bc726563-e04f-4149-9c80-2dbbc584252a" />
+  <img width="712" height="48" alt="image" src="https://github.com/user-attachments/assets/422dac40-5d64-4252-bf8a-b647f50a8e2f" />
+  <img width="609" height="275" alt="image" src="https://github.com/user-attachments/assets/8e960658-c6f0-4e67-b539-597110dbc55f" />
+
