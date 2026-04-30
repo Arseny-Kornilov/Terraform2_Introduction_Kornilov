@@ -77,6 +77,6 @@
   <img width="429" height="144" alt="image" src="https://github.com/user-attachments/assets/9a727d94-2050-48b4-b519-a6eef0c3f851" />
 
 
-## Код находится в ветке мастер:
+## Код находится в ветке master:
 https://github.com/Arseny-Kornilov/Terraform2_Introduction_Kornilov/tree/master
 
